@@ -8,8 +8,9 @@ $color-primary: #58e1c1;
 $color-secondary: #777;
 $color-link: #51ddfc;
 $color-text:#777;
-$color-button: #fff;
+$color-button: #51ddff;
 $color-background:  #58e1c1;
+$lighter-color: lighten($color-button, 20%);
 
 /* Breakpoints */
 
