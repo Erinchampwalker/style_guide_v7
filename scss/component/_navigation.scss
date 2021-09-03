@@ -21,7 +21,7 @@
   }
   
  &-link:hover {
-    color: #fff;
-    background-color: $color-background;
+    color: $color-hover;
+    background-color: $color-primary;
   }
 }
